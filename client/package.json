@@ -32,6 +32,7 @@
     "qs": "^6.9.4",
     "react": "~16.13.1",
     "react-chartjs-2": "^2.9.0",
+    "react-cv": "^1.1.0",
     "react-dom": "~16.13.1",
     "react-gauge-chart": "git+https://github.com/BossBele/react-gauge-chart.git",
     "react-masonry-css": "^1.0.14",
