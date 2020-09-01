@@ -68,6 +68,7 @@ export interface CoursesStats {
 export interface CoreCVInfo {
   name: string | null;
   location: Location | null;
+  desiredPosition: string | null;
   githubId: string | null;
   englishLevel: EnglishLevel | null;
   about: string | null;
